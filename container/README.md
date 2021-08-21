@@ -73,8 +73,8 @@ yarn test
 👤 **Paco Alías**
 
 * Website: https://dtodo1paco.github.io/
-* Twitter: [@dtodo1pa](https://twitter.com/dtodo1paco)
-* Github: [@dtodo1pa](https://github.com/dtodo1paco)
+* Twitter: [@dtodo1paco](https://twitter.com/dtodo1paco)
+* Github: [@dtodo1paco](https://github.com/dtodo1paco)
 * LinkedIn: [@dtodo1paco](https://linkedin.com/in/dtodo1paco)
 
 ## 🤝 Contributing
