@@ -55,6 +55,8 @@ I've been reading about microfrontends for a while and I though it was time to g
 
 Microfrontends is (in summary) applying the same principle applied for [microservices](https://microservices.io/), but in the front (UI). More info [here](https://single-spa.js.org/docs/microfrontends-concept/)
 
+<img align="center" src="https://github.com/dtodo1paco/microfrontends/raw/main/screenshots/microfrontend.png">
+
 ## TL;TR; 
 The idea is to build a frontend using components located in another frontend (without sharing any `node_module`). If it sounds interesting to you, keep reading.
 
@@ -95,7 +97,7 @@ This repository holds 3 independent projects, so in order to run them properly, 
   ```
 3. Install & run provider projects (app-1 and app-2). **Each in one independent terminal.**
    
-   3.1. Open a new terminal and run app-1 [here is how to](https://github.com/dtodo1paco/microfrontends/app-1#readme)
+   3.1. Open a new terminal and run app-1 [here is how to](https://github.com/dtodo1paco/microfrontends/blob/main/app-1/README.md)
       ```
    $ serve -n dist -p 3001
 
@@ -108,7 +110,7 @@ This repository holds 3 independent projects, so in order to run them properly, 
    └───────────────────────────────────┘
    ```
    
-   3.2. Open a new terminal and run app-2 [here is how to](https://github.com/dtodo1paco/microfrontends/app-2#readme)
+   3.2. Open a new terminal and run app-2 [here is how to](https://github.com/dtodo1paco/microfrontends/blob/main/app-2/README.md)
    ```
    $ serve -n dist -p 3002
 
@@ -121,7 +123,7 @@ This repository holds 3 independent projects, so in order to run them properly, 
    └───────────────────────────────────┘
    ```
 
-4. Now, you're ready to run the container. See [here](https://github.com/dtodo1paco/microfrontends/container#readme) how to do it.
+4. Now, you're ready to run the container. See [here](https://github.com/dtodo1paco/microfrontends/blob/main/container/README.md) how to do it.
 
 <!-- extra comments -->
 ## Comments

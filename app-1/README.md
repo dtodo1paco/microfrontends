@@ -13,7 +13,7 @@
   <a href="https://github.com/dtodo1paco/microfrontends/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/dtodo1paco/microfrontends/app-1/blob/master/app-1/LICENSE.md" target="_blank">
+  <a href="https://raw.githubusercontent.com/dtodo1paco/microfrontends/main/app-1/LICENSE.md" target="_blank">
     <img alt="License: BSD 2-Clause" src="https://img.shields.io/badge/BSD2-BSD%202--clause-yellowgreen" />
   </a>
   <a href="https://twitter.com/dtodo1paco" target="_blank">
@@ -26,10 +26,10 @@
 
 > Simple react app (CRA) with a Counter component exposed. The Counter component shows 2 buttons to increase/decrease a counter that is hold in the state of the component.
 
-<img align="center" src="https://github.com/dtodo1paco/microfrontends/raw/master/app-1/screenshots/app1.png">
+<img align="center" src="https://github.com/dtodo1paco/microfrontends/raw/main/app-1/screenshots/app1.png">
 
 
-### 🏠 [Homepage](https://github.com/dtodo1paco/microfrontends/app-1#readme)
+### 🏠 [Homepage](https://github.com/dtodo1paco/microfrontends/blob/main/app-1/README.md)
 
 ### ✨ [Demo](pending)
 
@@ -83,7 +83,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Paco Alías](https://github.com/dtodo1paco).<br />
-This project is [MIT](https://github.com/dtodo1paco/microfrontends/blob/master/LICENSE) licensed.
+This project is [BS2Clause](https://raw.githubusercontent.com/dtodo1paco/microfrontends/main/app-1/LICENSE.md) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator) and tunned by myself ;-)_

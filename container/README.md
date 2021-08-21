@@ -13,7 +13,7 @@
   <a href="https://github.com/dtodo1paco/microfrontends/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/dtodo1paco/microfrontends/container/blob/master/container/LICENSE.md" target="_blank">
+  <a href="https://raw.githubusercontent.com/dtodo1paco/microfrontends/main/container/LICENSE.md" target="_blank">
     <img alt="License: BSD 2-Clause" src="https://img.shields.io/badge/BSD2-BSD%202--clause-yellowgreen" />
   </a>
   <a href="https://twitter.com/dtodo1paco" target="_blank">
@@ -30,10 +30,10 @@
 >> RandomPet exposed by app-2
 > 
 
-<img align="center" src="https://github.com/dtodo1paco/microfrontends/raw/master/container/screenshots/container.png">
+<img align="center" src="https://github.com/dtodo1paco/microfrontends/raw/main/container/screenshots/container.png">
 
 
-### 🏠 [Homepage](https://github.com/dtodo1paco/microfrontends/container#readme)
+### 🏠 [Homepage](https://github.com/dtodo1paco/microfrontends/blob/main/container/README.md)
 
 ### ✨ [Demo](pending)
 
@@ -88,7 +88,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Paco Alías](https://github.com/dtodo1paco).<br />
-This project is [MIT](https://github.com/dtodo1paco/microfrontends/blob/master/LICENSE) licensed.
+This project is [BS2Clause](https://raw.githubusercontent.com/dtodo1paco/microfrontends/main/container/LICENSE.md) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator) and tunned by myself ;-)_
