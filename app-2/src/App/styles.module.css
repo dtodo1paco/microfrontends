@@ -1,0 +1,23 @@
+.appRoot {
+  margin: '20px';
+}
+
+.appHeader {
+  border: 1px dashed rgb(9, 5, 238);
+  height: 50vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
+
+.appContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.other-frontend {
+  margin-right: 2rem;
+  padding: 2rem;
+  border: 1px dashed black;
+}
