@@ -55,7 +55,7 @@ I've been reading about microfrontends for a while and I though it was time to g
 
 Microfrontends is (in summary) applying the same principle applied for [microservices](https://microservices.io/), but in the front (UI). More info [here](https://single-spa.js.org/docs/microfrontends-concept/)
 
-<img align="center" src="https://github.com/dtodo1paco/microfrontends/raw/main/screenshots/microfrontend.png">
+<img align="center" src="https://github.com/dtodo1paco/microfrontends/raw/main/screenshots/microfrontends.png">
 
 ## TL;TR; 
 The idea is to build a frontend using components located in another frontend (without sharing any `node_module`). If it sounds interesting to you, keep reading.
